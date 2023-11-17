@@ -1,4 +1,4 @@
-# Terminal Customization with Oh-My-Posh on Windows
+# Terminal Customization with Oh-My-Posh
 
 Customizing your Windows terminal using Oh-My-Posh can greatly enhance your command line experience. Follow these steps to get started:
 
